@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f80be945-041b-4467-b9e8-bca1ecc66bc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mgUHr1pivpmZtiECLJvzVHVaUB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/노트" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\최호연\Desktop\CodingTest" />
+      <recent name="C:\Users\최호연\Desktop\CodingTest\이것이취업을위한코딩테스트다" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\최호연\Desktop\CodingTest\노트" />
+      <recent name="C:\Users\최호연\Desktop\CodingTest\이것이 코딩 테스트다 - 기출문제" />
+      <recent name="C:\Users\최호연\Desktop\CodingTest" />
+      <recent name="C:\Users\최호연\Desktop\CodingTest\이것이 취업을 위한 코딩테스트다 문제" />
+      <recent name="C:\Users\최호연\Desktop\CodingTest\이것이 취업을 위한 코딩 테스트다 with 파이썬" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LIS">
+    <configuration name="네트워크" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/네트워크.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10451. 순열 사이클" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/10451. 순열 사이클.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2583. 영역 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/2583. 영역 구하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9. 미로 탈출" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩 테스트다 - 연습문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩 테스트다 - 연습문제/9. 미로 탈출.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LCS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SSAFY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SSAFY/LCS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SSAFY" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SSAFY/LIS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="조이스틱" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/조이스틱.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LIS" />
+        <item itemvalue="Python.LCS" />
+        <item itemvalue="Python.2583. 영역 구하기" />
+        <item itemvalue="Python.10451. 순열 사이클" />
+        <item itemvalue="Python.9. 미로 탈출" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f80be945-041b-4467-b9e8-bca1ecc66bc1" name="Default Changelist" comment="" />
+      <created>1609914643531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609914643531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="192" key="FileChooserDialogImpl" timestamp="1624003985207">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="192" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1624003985207" />
+    <state width="1442" height="278" key="GridCell.Tab.0.bottom" timestamp="1621582714813">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.0.bottom/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
+    <state width="1442" height="258" key="GridCell.Tab.0.bottom/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
+    <state width="1900" height="352" key="GridCell.Tab.0.bottom/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
+    <state width="1442" height="278" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
+    <state width="1442" height="278" key="GridCell.Tab.0.center" timestamp="1621582714813">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.0.center/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
+    <state width="1442" height="258" key="GridCell.Tab.0.center/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
+    <state width="1900" height="352" key="GridCell.Tab.0.center/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
+    <state width="1442" height="278" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
+    <state width="1442" height="278" key="GridCell.Tab.0.left" timestamp="1621582714813">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.0.left/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
+    <state width="1442" height="258" key="GridCell.Tab.0.left/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
+    <state width="1900" height="352" key="GridCell.Tab.0.left/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
+    <state width="1442" height="278" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
+    <state width="1442" height="278" key="GridCell.Tab.0.right" timestamp="1621582714813">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1899" height="258" key="GridCell.Tab.0.right/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
+    <state width="1442" height="258" key="GridCell.Tab.0.right/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
+    <state width="1900" height="352" key="GridCell.Tab.0.right/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
+    <state width="1442" height="278" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
+    <state x="468" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1624003703433">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="-1306" y="586" key="com.intellij.ide.util.TipDialog/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615425209644" />
+    <state x="468" y="287" key="com.intellij.ide.util.TipDialog/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1621651789837" />
+    <state x="3174" y="355" key="com.intellij.ide.util.TipDialog/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619709256424" />
+    <state x="468" y="287" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1624003703433" />
+    <state x="402" y="41" width="658" height="792" key="find.popup" timestamp="1621496411485">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="402" y="41" width="658" height="792" key="find.popup/0.0.1463.874@0.0.1463.874" timestamp="1621496411485" />
+    <state x="-1340" y="470" width="756" height="687" key="search.everywhere.popup" timestamp="1615444322785">
+      <screen x="-1920" y="245" width="1920" height="1040" />
+    </state>
+    <state x="-1340" y="470" width="756" height="687" key="search.everywhere.popup/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615444322785" />
+  </component>
+</project>
