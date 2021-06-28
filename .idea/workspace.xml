@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f80be945-041b-4467-b9e8-bca1ecc66bc1" name="Default Changelist" comment="" />
+    <list default="true" id="f80be945-041b-4467-b9e8-bca1ecc66bc1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/CountDiv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/CyclicRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/FrogJmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/FrogRiverOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/GenomicRangeQuery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/MaxCounters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/MissingInteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/OddOccurrencesInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/PermCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/PermMissingElem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/TapeEquilibrium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codility/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +31,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mgUHr1pivpmZtiECLJvzVHVaUB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,21 +45,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/노트" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\최호연\Desktop\CodingTest" />
-      <recent name="C:\Users\최호연\Desktop\CodingTest\이것이취업을위한코딩테스트다" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\최호연\Desktop\CodingTest\노트" />
       <recent name="C:\Users\최호연\Desktop\CodingTest\이것이 코딩 테스트다 - 기출문제" />
       <recent name="C:\Users\최호연\Desktop\CodingTest" />
       <recent name="C:\Users\최호연\Desktop\CodingTest\이것이 취업을 위한 코딩테스트다 문제" />
       <recent name="C:\Users\최호연\Desktop\CodingTest\이것이 취업을 위한 코딩 테스트다 with 파이썬" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\최호연\Desktop\CodingTest" />
+      <recent name="C:\Users\최호연\Desktop\CodingTest\이것이취업을위한코딩테스트다" />
     </key>
   </component>
   <component name="RunManager" selected="Python.LIS">
@@ -230,45 +254,32 @@
     <state width="1442" height="278" key="GridCell.Tab.0.bottom" timestamp="1621582714813">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="1899" height="258" key="GridCell.Tab.0.bottom/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
-    <state width="1442" height="258" key="GridCell.Tab.0.bottom/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
     <state width="1900" height="352" key="GridCell.Tab.0.bottom/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
     <state width="1442" height="278" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
     <state width="1442" height="278" key="GridCell.Tab.0.center" timestamp="1621582714813">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="1899" height="258" key="GridCell.Tab.0.center/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
-    <state width="1442" height="258" key="GridCell.Tab.0.center/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
     <state width="1900" height="352" key="GridCell.Tab.0.center/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
     <state width="1442" height="278" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
     <state width="1442" height="278" key="GridCell.Tab.0.left" timestamp="1621582714813">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="1899" height="258" key="GridCell.Tab.0.left/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
-    <state width="1442" height="258" key="GridCell.Tab.0.left/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
     <state width="1900" height="352" key="GridCell.Tab.0.left/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
     <state width="1442" height="278" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
     <state width="1442" height="278" key="GridCell.Tab.0.right" timestamp="1621582714813">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="1899" height="258" key="GridCell.Tab.0.right/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615449586972" />
-    <state width="1442" height="258" key="GridCell.Tab.0.right/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1615820944284" />
     <state width="1900" height="352" key="GridCell.Tab.0.right/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619098886039" />
     <state width="1442" height="278" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1621582714813" />
-    <state x="468" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1624003703433">
+    <state x="468" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1624855163313">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state x="-1306" y="586" key="com.intellij.ide.util.TipDialog/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615425209644" />
-    <state x="468" y="287" key="com.intellij.ide.util.TipDialog/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1621651789837" />
+    <state x="468" y="287" key="com.intellij.ide.util.TipDialog/0.0.1463.874/2560.13.1920.1040@0.0.1463.874" timestamp="1624855163313" />
     <state x="3174" y="355" key="com.intellij.ide.util.TipDialog/0.0.1463.874/2560.13.1920.1040@2560.13.1920.1040" timestamp="1619709256424" />
-    <state x="468" y="287" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1624003703433" />
+    <state x="468" y="287" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1624766198619" />
     <state x="402" y="41" width="658" height="792" key="find.popup" timestamp="1621496411485">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state x="402" y="41" width="658" height="792" key="find.popup/0.0.1463.874@0.0.1463.874" timestamp="1621496411485" />
-    <state x="-1340" y="470" width="756" height="687" key="search.everywhere.popup" timestamp="1615444322785">
-      <screen x="-1920" y="245" width="1920" height="1040" />
-    </state>
-    <state x="-1340" y="470" width="756" height="687" key="search.everywhere.popup/0.0.1463.874/-1920.245.1920.1040@-1920.245.1920.1040" timestamp="1615444322785" />
   </component>
 </project>
